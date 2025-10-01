@@ -20,6 +20,8 @@ Evaluation: Currently evaluating model performance on test splits.
 Initial training demonstrates reasonable detection performance.
 Accuracy can be improved with additional epochs, hyperparameter tuning, and possibly augmentation strategies.
 
+![Detection](images/result1.jpg)
+
 ### 🔮 Future Directions
 This project is being extended into a P&ID LLM Helper, guided by another research paper. The idea is to:
 
