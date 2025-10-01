@@ -22,14 +22,15 @@ Accuracy can be improved with additional epochs, hyperparameter tuning, and poss
 
 ### 🔮 Future Directions
 This project is being extended into a P&ID LLM Helper, guided by another research paper. The idea is to:
-Combine object detection results with LLM-based reasoning to automatically interpret entire diagrams.
-Enable text-based querying of diagrams (e.g., "Which valves are connected to Pump P-101?").
-Develop an AI assistant that bridges P&ID diagrams and natural language understanding for industrial applications.
+
+1. Combine object detection results with LLM-based reasoning to automatically interpret entire diagrams.
+2. Enable text-based querying of diagrams (e.g., "Which valves are connected to Pump P-101?").
+3. Develop an AI assistant that bridges P&ID diagrams and natural language understanding for industrial applications.
 
 ### 📚 References
-[[YoLov5 for symbol extraction in PID Diagrams](https://www.researchgate.net/publication/366123842_YOLOv5_for_symbol_extraction_in_PID_diagrams)]
-[Paliwal et al., 2021] Paliwal, S., Jain, A., Sharma, M., and Vig, L. (2021). Digitize-PID: Automatic digitization of piping and instrumentation diagrams. In Lecture Notes in Computer Science, pages168–180. Springer International Publishing
+1. [[YoLov5 for symbol extraction in PID Diagrams](https://www.researchgate.net/publication/366123842_YOLOv5_for_symbol_extraction_in_PID_diagrams)]
+2. [Paliwal et al., 2021](https://www.researchgate.net/publication/354461183_Digitize-PID_Automatic_Digitization_of_Piping_and_Instrumentation_Diagrams)
 
 ### 🙏 Acknowledgments
-🔗 Special thanks to [ch-hristov] for providing the dataset and releasing the associated paper that inspired this work. 
+🔗 Special thanks to [ch-hristov](https://github.com/ch-hristov) for providing the dataset and releasing the associated paper that inspired this work. 
 Community contributors and open-source maintainers of YOLOv11.
