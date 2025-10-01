@@ -1,4 +1,4 @@
-# PID Symbol Detection using YOLOv11s
+# PID Symbol Detection using YOLOv11
 
 ### 📌 Project Overview
 This repository contains an object detection project focused on Piping and Instrumentation Diagram (P&ID) symbol detection using the YOLOv11s model. The goal is to automatically identify and classify engineering symbols in P&ID diagrams, enabling faster digitalization, verification, and downstream integration for industrial automation and process engineering.
