@@ -28,7 +28,7 @@ This project is being extended into a P&ID LLM Helper, guided by another researc
 3. Develop an AI assistant that bridges P&ID diagrams and natural language understanding for industrial applications.
 
 ### 📚 References
-1. [[YoLov5 for symbol extraction in PID Diagrams](https://www.researchgate.net/publication/366123842_YOLOv5_for_symbol_extraction_in_PID_diagrams)]
+1. [YoLov5 for symbol extraction in PID Diagrams](https://www.researchgate.net/publication/366123842_YOLOv5_for_symbol_extraction_in_PID_diagrams)
 2. [Paliwal et al., 2021](https://www.researchgate.net/publication/354461183_Digitize-PID_Automatic_Digitization_of_Piping_and_Instrumentation_Diagrams)
 
 ### 🙏 Acknowledgments
